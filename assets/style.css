@@ -30,6 +30,7 @@
 
 body {
     font-family: "Poppins", sans-serif;
+    font-weight: bolder;
 }
 
 .stop-scrolling {
@@ -215,9 +216,17 @@ header .container {
 
 .person {
     width: 80%;
-    transform: translate(15%, 25px);
+    padding-left: 50px;
+    animation: slide 3s infinite alternate;
 }
-
+@keyframes slide {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(40px); /* Adjust the movement distance */
+    }
+}
 .toggle-btn {
     display: inline-block;
     border: none;
