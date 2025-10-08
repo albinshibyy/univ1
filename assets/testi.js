@@ -1,31 +1,31 @@
 //Testimonial Data
 const testimonials = [
   {
-    name: "Eva Sawyer",
+    name: "Karthika Raj",
     job: "CEO, Fashworks",
     testimonial:
-      "Neque volutpat ac tincidunt vitae semper quis lectus nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur",
+      "These shoes are an absolute game-changer! I wore them for a 10-hour shift, and my feet felt great the entire time. Plus, they look fantastic with any outfit!",
   },
   {
-    name: "Katey Topaz",
+    name: "Husu Mon",
     job: "Developer, TechCrew",
     image: "img/profile-image-2.png",
     testimonial:
-      "Elementum tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse in est ante in nibh mauris cursus mattis molestie a iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui accumsan sit amet nulla",
+      "I've tried several brands, but these are by far the best. The grip is excellent, and I've taken them out on some challenging trails. Can't recommend them enough!",
   },
   {
-    name: "Jae Robin",
+    name: "Geo Johny",
     job: "UI Designer, Affinity Agency",
     image: "img/profile-image-3.png",
     testimonial:
-      "Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod in pellentesque massa placerat duis ultricies lacus sed turpis",
+      "Not only are these shoes stylish, but they are also incredibly comfortable. I get compliments every time I wear them! Perfect for both casual and dressy occasions",
   },
   {
-    name: "Nicola Blakely",
+    name: "Abido ES",
     job: "CEO,Zeal Wheels",
     image: "img/profile-image-4.png",
     testimonial:
-      "Sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "I love my new shoes! They fit like a glove and offer amazing arch support. I've been wearing them for runs and daily errands without any discomfort.",
   },
 ];
 
